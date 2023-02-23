@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaima Jaziri</h1>
-<h3 align="center">A passionate AI/ML, Data, Computer Vision, and performance 100 Computer Engineering Student from Tunisia.</h3>
+<h3 align="center">A passionate AI/ML 🧠, Data 💻, Computer Vision 🖼️, and natural language processing 🗣️ Computer Engineering Student 👩‍🎓 from Tunisia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
