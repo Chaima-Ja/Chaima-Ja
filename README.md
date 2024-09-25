@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chaima Jaziri</h1>
-<h3 align="center">I'm passionate about Generative AI for Software Engineering and Natural Language Processing 💻 🧠, Currently, I am pursuing a Master of Applied Science in Software Engineering at Concordia University 👩‍🎓</h3>
+<h1 align="center">Hi 👋 I'm Chaima Jaziri</h1>
+<h3 align="center">I'm passionate about Generative AI for Software Engineering and Natural Language Processing 💻 🧠 Currently, I am pursuing a Master of Applied Science in Software Engineering at Concordia University 👩‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
