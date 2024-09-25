@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chaima Jaziri</h1>
-<h3 align="center">I'm passionate about Generative AI for Software Engineering and Natural Language Processing 💻 🧠, Currently, I am pursuing a Master of Applied Science in Software Engineering at Concordia University, where my research focuses on the application of AI in Software Engineering 👩‍🎓</h3>
+<h3 align="center">I'm passionate about Generative AI for Software Engineering and Natural Language Processing 💻 🧠, Currently, I am pursuing a Master of Applied Science in Software Engineering at Concordia University 👩‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaima-ja" alt="chaima-ja" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision, Deep Learning and Natural Language Processing**
+- 🔭 I’m currently working on **The application of AI in Software Engineering, Large Language Models**
 
-- 🌱 I’m currently learning **AI: Computer Vision, Deep Learning, MLOps.**
+- 🌱 I’m currently learning **LLMOps and Multi-Agents Implementation**
 
 - 👯 I’m looking to collaborate on **AI Projects and Data Engineering Projects.**
 
