@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Chaima Jaziri</h1>
-<h3 align="center">I'm passionate about Generative AI for Software Engineering and Natural Language Processing 💻 🧠 Currently, I am pursuing a Master of Applied Science in Software Engineering at Concordia University 👩‍🎓</h3>
+<h3 align="center">I am pursuing a Master of Applied Science in Software Engineering at Concordia University 👩‍🎓 <br>
+   I'm passionate about Generative AI for Software Engineering and Natural Language Processing 💻 🧠 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
@@ -10,20 +11,25 @@
 
 - 👯 I’m looking to collaborate on **AI Projects and Data Engineering Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chaima-Ja](https://github.com/Chaima-Ja)
+- 👨‍💻 All of my projects are available on my
+  <a href="https://github.com/Chaima-Ja" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+  </a> 
+  and my portfolio
+  <a href="https://chaima-ja.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://static.vecteezy.com/system/resources/previews/003/731/316/non_2x/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" alt="Portfolio" width="40" height="40"/>
+  </a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chaima-jaziri-4733371b5/](https://www.linkedin.com/in/chaima-jaziri-4733371b5/)
 
-- 👩‍🎓 Know about some of my certifications and badges:
-
-   ➡️ credly : https://www.credly.com/earner/earned
+- 👩‍🎓 Know about some of my certifications and badges: ➡️ credly : https://www.credly.com/earner/earned
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chaima-jaziri-4733371b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaima-jaziri-4733371b5/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/chaima_jaziri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chaima_jaziri/" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Skills:</h3>
 
 <p align="left">
   <strong>Programming & Automation:</strong> 
@@ -53,23 +59,26 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
+   
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
+  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
+  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
+  
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/examples/images/mlflow-mark-color.png(https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png)" alt="mlflow" width="40" height="40"/>
+    <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="50" height="40"/>
   </a>
-  <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" alt="kubeflow" width="40" height="40"/>
-  </a>
+  
+
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/L/langchain-logo-DAA38C70D7-seeklogo.com.png" alt="langchain" width="40" height="40"/>
+    <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/autogen" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/microsoft.png" alt="autogen" width="40" height="40"/>
@@ -111,7 +120,5 @@
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face transformers" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dialogflow/dialogflow-icon.svg" alt="google dialogflow" width="40" height="40"/>
-  </a>
+
 </p>
