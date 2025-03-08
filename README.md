@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋 I'm Chaima Jaziri</h1>
 <h3 align="center">I am a Machine Learning Engineer and currently pursuing a MASc in Software Engineering at Concordia University 👩‍🎓 <br>
-   My research is about Generative AI for Software Engineering and Agents 💻 🧠 </h3>
+   My research is about Generative AI and Multi Agents 💻 🧠 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
 
 - 🔭 I’m currently working on **The application of Large Language Models in Software Engineering, Agentic Systems**
 
-- 🌱 I’m currently learning **MLOps and Multi-Agents Implementation**
-
-- 👯 I’m looking to collaborate on **AI Projects and Data Engineering Projects.**
+- 👯 I’m looking to collaborate on **AI Projects **
 
 - 👨‍💻 All of my projects are available on my
   <a href="https://github.com/Chaima-Ja" target="_blank" rel="noreferrer">
