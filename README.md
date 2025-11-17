@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Chaima Jaziri</h1>
-<h3 align="center">I am a Machine Learning Engineer and currently pursuing a MASc in Software Engineering at Concordia University 👩‍🎓 <br>
-   My research is about Generative AI and Multi Agents 💻 🧠 </h3>
+<h3 align="center"> AI Engineer with +3 years end-to-end experience shipping production systems: GenAI pipelines from model fine-tuning to evaluation to deployment and monitoring. Strong with LLMs (OpenSource, Agents, MCP, RAG), MLOps and distributed training. <br>
+  Also, I'm a master student in  Software Engineering at Concordia University 👩‍🎓 My research is about Generative AI and Multi Agents 💻 🧠 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
