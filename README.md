@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Generative AI and Multi Agents Systems**
 
-- 👯 I’m looking to collaborate on **AI Projects **
+- 👯 I’m looking to collaborate on **Agentic Systems Projects**
 
 - 👨‍💻 All of my projects are available on my
   <a href="https://github.com/Chaima-Ja" target="_blank" rel="noreferrer">
