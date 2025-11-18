@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋 I'm Chaima Jaziri</h1>
-<h3 align="center"> AI Engineer with 3 years end-to-end experience and a master student at Concordia University 👩‍🎓 <br>
-  Generative AI and Multi Agents 💻 🧠 </h3>
+<h3 align="center"> AI Engineer with 3 years end-to-end experience and a Master student at Concordia University 👩‍🎓 💻 🧠 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
 
-- 🔭 I’m currently working on **The application of Large Language Models in Software Engineering, Agentic Systems**
+- 🔭 I’m currently working on **Generative AI and Multi Agents Systems**
 
 - 👯 I’m looking to collaborate on **AI Projects **
 
