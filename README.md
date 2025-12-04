@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Chaima Jaziri</h1>
-<h3 align="center"> AI Engineer with 3 years end-to-end experience and a Master student at Concordia University 👩‍🎓 💻 🧠 </h3>
+<h3 align="center"> AI Engineer with +3 years end-to-end experience and a Master student at Concordia University 👩‍🎓 💻 🧠 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaima-ja&label=Profile%20views&color=0e75b6&style=flat" alt="chaima-ja" /> </p>
 
